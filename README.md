@@ -2,6 +2,8 @@
 
 This is a simple currency converter web application developed using HTML, CSS, JavaScript, and a currency API. It allows users to convert amounts between different currencies.
 
+![image](https://github.com/MaheshMohite6520/Currency-Converter/assets/126685009/99f7a732-4c1d-44f3-b137-903bf7a288dc)
+
 ## Table of Contents
 - [Features](#features)
 - [Demo](#demo)
@@ -18,7 +20,7 @@ This is a simple currency converter web application developed using HTML, CSS, J
 
 ## Demo
 
-A live demo of the Currency Converter is available [here]().
+A live demo of the Currency Converter is available [here](https://maheshmohite6520.github.io/Currency-Converter/).
 
 ## Getting Started
 
